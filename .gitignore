@@ -1,0 +1,8 @@
+*.o
+urlmark.sock
+*.so
+.project
+.cproject
+.settings
+core
+main

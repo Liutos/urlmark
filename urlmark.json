@@ -1,0 +1,8 @@
+{
+	"so": "libhandlers.so",
+	"routes": {
+		"request_uri": "handler_request_uri",
+		"query_string": "handler_query_string",
+		"request_method": "handler_request_method"
+	}
+}
